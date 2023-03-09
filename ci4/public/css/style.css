@@ -9,21 +9,21 @@
 }
 /* Header background image */
 header {
-    background-image:linear-gradient(rgba(141, 101, 101, 0.5),rgba(5, 5, 5, 0.5)), url("../imahe/anothablak.jpg");
+    background-image:linear-gradient(rgba(141, 101, 101, 0.5),rgba(5, 5, 5, 0.5)), url("../imahe/bg.jpg");
     height: 100vh;
     background-size: cover;
     background-position: center;
 }
 
 .header2 {
-    background-image:linear-gradient(rgba(62, 69, 131, 0.5),rgba(5, 5, 5, 0.5)), url("../imahe/anothablak.jpg");
+    background-image:linear-gradient(rgba(62, 69, 131, 0.5),rgba(5, 5, 5, 0.5)), url("../imahe/bg.jpg");
     height: 100vh;
     background-size: cover;
     background-position: center;
 }
 
 .header3 {
-    background-image:linear-gradient(rgba(32, 29, 29, 0.5),rgba(212, 208, 208, 0.5)), url("../imahe/anothablak.jpg");
+    background-image:linear-gradient(rgba(32, 29, 29, 0.5),rgba(212, 208, 208, 0.5)), url("../imahe/bg.jpg");
     height: 100vh;
     background-size: cover;
     background-position: center;

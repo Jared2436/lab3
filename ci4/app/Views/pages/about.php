@@ -15,7 +15,7 @@
               <li><a href="home">Home</a></li>
               <li class="active"><a href="about">About</a></li>
               <li><a href="pictures">Pictures</a></li>
-              <li><a href="register">Register</a></li>
+              <li><a href="guest">Register</a></li>
               
             </ul>
         </div>

@@ -12,7 +12,7 @@
             <img src="imahe/logo.png" alt="Logo">
             </div>
             <ul>
-              <li class="active"><a href="index.php">Home</a></li>
+              <li class="active"><a href="home">Home</a></li>
               <li><a href="about">About</a></li>
               <li><a href="pictures">Pictures</a></li>
               <li><a href="guest">Register</a></li>

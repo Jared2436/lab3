@@ -2,7 +2,8 @@
 <html>
 <head>
    <title>Redja's Website</title>
-   <link rel="stylesheet" type="text/css" href="style.css"> 
+   <link rel="stylesheet" type="text/css" href="style.css">
+   <?php echo link_tag('css/style.css'); ?> 
    
 </head>
 <body>
